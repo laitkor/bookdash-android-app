@@ -1,8 +1,7 @@
 machine:
    environment:
      ANDROID_HOME: /usr/local/android-sdk-linux
-     node:
-    version: 0.10.22
+    
 
 dependencies:
 
