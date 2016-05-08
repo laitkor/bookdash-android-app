@@ -16,12 +16,7 @@ repositories {
     maven { url 'https://maven.fabric.io/public' }
 }
 
-buildTypes {
-    debug {
-        // Run code coverage reports by default on debug builds.
-        testCoverageEnabled = true
-    }
-}
+
 
 android {
     dataBinding { enabled = true }
